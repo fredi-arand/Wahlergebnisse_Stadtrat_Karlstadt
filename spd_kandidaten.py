@@ -20,3 +20,5 @@ spd_kandidaten = {
     , 'd5_19': 'Alfons Mühlrath'
     , 'd5_20': 'Heidi Wright'
 }
+
+# jupyter nbextension enable --py widgetsnbextension
