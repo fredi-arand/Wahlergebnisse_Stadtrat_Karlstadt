@@ -4,7 +4,7 @@ import sys
 import matplotlib.pyplot as plot
 
 with open('Open-Data-Gemeinderatswahl-Bayern1106.csv') as csvfile:
-    csvreader = csv.reader(csvfile, delimiter=';')
+    csvreader = csv.reader(csvfile, delimiter=',')
     all_rows = [row for row in csvreader]
     first_row = all_rows[0]
     data_rows = all_rows[1:]
