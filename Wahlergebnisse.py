@@ -1,6 +1,5 @@
 from spd_kandidaten import spd_kandidaten
 import csv
-import ipywidgets as widgets
 import sys
 import matplotlib.pyplot as plot
 
